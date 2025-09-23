@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <WebSocketsServer.h>
 #include <ESPmDNS.h>
-
+//To connect to this local server use ws://esp32.local:81
 // Wi-Fi credentials
 const char* ssid     = "Shout Aaron for PASSWORD!!!";  // Replace with your Wi-Fi SSID
 const char* password = "aaronaaron";                     // Replace with your Wi-Fi password
