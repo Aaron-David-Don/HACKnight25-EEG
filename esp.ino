@@ -3,8 +3,8 @@
 #include <ESPmDNS.h>
 
 // Wi-Fi credentials
-const char* ssid     = "Shout DADDY for PASSWORD!!!";  // Replace with your Wi-Fi SSID
-const char* password = "urmomgay";                     // Replace with your Wi-Fi password
+const char* ssid     = "Shout Aaron for PASSWORD!!!";  // Replace with your Wi-Fi SSID
+const char* password = "aaronaaron";                     // Replace with your Wi-Fi password
 
 // Create WebSocket server on port 81
 WebSocketsServer webSocket = WebSocketsServer(81);
